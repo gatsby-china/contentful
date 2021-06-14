@@ -41,6 +41,6 @@
 
 - [Headless CMS](https://launch-in-china.21cloudbox.com/tags/headless-cms.html)
 - [Frontends](https://launch-in-china.21cloudbox.com/tags/static-site-generator.html)
-- [Backends](https://launch-in-china.21cloudbox.com/tags/databases.html)
-- [Databases](https://launch-in-china.21cloudbox.com/tags/databases.html)
-- [Legal for China](https://launch-in-china.21cloudbox.com/tags/databases.html)
+- [Backends](https://launch-in-china.21cloudbox.com/tags/backend.html)
+- [Databases](https://launch-in-china.21cloudbox.com/tags/database.html)
+- [Legal for China](https://launch-in-china.21cloudbox.com/tags/icp.html)
